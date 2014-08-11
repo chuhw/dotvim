@@ -11,9 +11,9 @@ set ru
 set ic
 set encoding=utf-8
 set fileencoding=utf-8
-" set mouse=a
+"set mouse=a
 set modeline
-set cursorline
+"set cursorline
 set background=dark
 set nocompatible
 set backspace=indent,eol,start
@@ -22,9 +22,10 @@ set history=100
 set expandtab
 set sw=4
 set tabstop=4
+set t_ti= t_te=
 
-"colorscheme desert
-colorscheme jellybeans
+colorscheme desert
+"colorscheme jellybeans
 
 set laststatus=2
 "set statusline=%0*\ %{fugitive#statusline()}\ %*
