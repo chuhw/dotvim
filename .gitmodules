@@ -31,9 +31,6 @@
 [submodule ".vim/bundle/matchit.zip"]
 	path = .vim/bundle/matchit.zip
 	url = https://github.com/vim-scripts/matchit.zip.git
-[submodule ".vim/bundle/scss-syntax.vim"]
-	path = .vim/bundle/scss-syntax.vim
-	url = https://github.com/cakebaker/scss-syntax.vim.git
 [submodule ".vim/bundle/syntastic"]
 	path = .vim/bundle/syntastic
 	url = https://github.com/scrooloose/syntastic.git
