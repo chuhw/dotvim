@@ -7,9 +7,6 @@
 [submodule ".vim/bundle/OOP-javascript-indentation"]
 	path = .vim/bundle/OOP-javascript-indentation
 	url = https://github.com/vim-scripts/OOP-javascript-indentation.git
-[submodule ".vim/bundle/jellybeans.vim"]
-	path = .vim/bundle/jellybeans.vim
-	url = https://github.com/nanotech/jellybeans.vim.git
 [submodule ".vim/bundle/xterm-color-table.vim"]
 	path = .vim/bundle/xterm-color-table.vim
 	url = https://github.com/guns/xterm-color-table.vim.git
