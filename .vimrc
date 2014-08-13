@@ -25,7 +25,6 @@ set tabstop=4
 set t_ti= t_te=
 
 colorscheme desert
-"colorscheme jellybeans
 
 set laststatus=2
 "set statusline=%0*\ %{fugitive#statusline()}\ %*
