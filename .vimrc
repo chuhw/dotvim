@@ -23,6 +23,7 @@ set expandtab
 set sw=4
 set tabstop=4
 set t_ti= t_te=
+set noignorecase
 
 colorscheme desert
 
