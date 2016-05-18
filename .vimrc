@@ -61,12 +61,6 @@ set foldlevelstart=99
 "autocmd BufWinEnter * silent loadview
 "autocmd Syntax php normal zR
 
-inoremap jj <ESC>
-inoremap jm $
-inoremap jk ->
-inoremap jl =>
-noremap .rs :%s/\s\+$//<CR>
-
 "php-doc
 inoremap <C-K> <ESC>:call PhpDocSingle()<CR>i
 nnoremap <C-K> :call PhpDocSingle()<CR>
